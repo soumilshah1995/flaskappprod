@@ -1,0 +1,2 @@
+
+alert("Main.js loaded")
